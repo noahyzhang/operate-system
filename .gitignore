@@ -1,0 +1,4 @@
+MyOS.bin
+MyOS.elf
+MyOS.map
+*.o
